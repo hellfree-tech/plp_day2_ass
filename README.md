@@ -118,12 +118,9 @@ Disadvantages of Private Repositories
 ### Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
 A commit in Git is a snapshot of changes made to a repository. It serves as a checkpoint that allows developers to track changes, roll back to previous versions if needed, and collaborate efficiently. Each commit includes:
-
-    A unique identifier (hash)
-
-    A commit message explaining the changes
-
-    A timestamp and author details
+ A unique identifier (hash)
+ A commit message explaining the changes
+ A timestamp and author details
 
 Commits help manage different versions of a project by keeping a detailed history of modifications, ensuring accountability, and enabling collaboration.
 Steps to Make Your First Commit to a GitHub Repository
